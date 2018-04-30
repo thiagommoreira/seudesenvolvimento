@@ -1,0 +1,95 @@
+body {
+    
+    background-size: 120%;
+   
+    background-image: url("../img/puzzle-3223941_1920.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    opacity: 0.9;
+}
+
+.arrows {
+    position: relative;
+    margin: auto;
+}
+
+#left {
+    position: absolute; 
+    left: 620px;
+    top: -85px;
+}
+
+#right {
+    position: absolute;
+    top: -85px;
+    left: 430px;
+}
+
+#titulo-topo {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    color:  rgb(223, 70, 0);
+    position: relative;
+    top: -5px;
+   
+}
+#texto-pos-email {
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: bold;
+    color:  rgb(54, 54, 54);
+    position: relative;
+    top: 10px;
+   
+}
+
+p {
+    text-align: center;
+    position: relative;
+    top: 100px;
+    color:  rgb(223, 70, 0);
+}
+
+.formregistro {
+    width: 30%;
+    padding-top: 10%;
+    margin: auto;
+    font-size: 1.4em;
+    
+}
+
+.form-group label {
+    color: rgb(223, 70, 0);
+    font-weight: bold;
+}
+
+#emailHelp {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(223, 70, 0);
+}
+
+.formregistro {
+    position: relative;
+}
+
+button {
+    
+    
+   
+    
+}
+
+footer {
+    color: white;
+    margin: auto;
+    padding: 100px;
+    position: relative;
+    top: 50px;
+}
+
+html {
+    width: 100%;
+    background-color: black;
+}
